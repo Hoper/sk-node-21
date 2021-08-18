@@ -3,6 +3,7 @@
 git clone https://github.com/Hoper/sk-node-21.git
 cd sk-node-21
 npm i
+composer install
 ```
 ## Usage
 
