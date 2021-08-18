@@ -7,10 +7,12 @@ npm i
 ## Usage
 
 ```sh
-node app
+npm start
+or
+node index.js
 ```
 ## Docker
 
 ```sh
-docker build -t <youruser>/sk-node-21:${package.json.version} .
+docker build -t hoper/sk-node-21:${package.json.version} .
 ```
