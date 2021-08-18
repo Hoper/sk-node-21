@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+     "type": "git",
+     "url":"git+https://github.com/Hoper/sk-node-21.git"
+  },
   "author": "Hoper",
   "license": "ISC",
   "dependencies": {
