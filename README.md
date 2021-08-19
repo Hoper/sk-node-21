@@ -15,5 +15,7 @@ node index.js
 ## Docker
 
 ```sh
-docker build -t hoper/sk-node-21:${package.json.version} .
+sudo docker run denishop/sf
+you get the result:
+The result is: 19
 ```
