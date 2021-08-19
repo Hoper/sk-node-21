@@ -15,7 +15,7 @@ node index.js
 ## Docker
 
 ```sh
-sudo docker run denishop/sf
+sudo docker run denishop/sf:1.0.2
 you get the result:
-The result is: 19
+The result is: 246
 ```
